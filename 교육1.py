@@ -11,5 +11,3 @@ class HSVConfig:
         self.v_max = [255]
         self.hsv_Lower = (self.h_min[0], self.s_min[0], self.v_min[0])
         self.hsv_Upper = (self.h_max[0], self.s_max[0], self.v_max[0])
-
-        print("hello")
